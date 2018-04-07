@@ -12,5 +12,6 @@ Employee::Employee(const string &Fname, const string &Lname) {
     if (Lname.length() < MIN_NUM_CHARS_NAMES) {
         cout << "Last name " << Lname << " too short, setting invalid name to default." << endl;
         LastName = "Last name not set";
+        cout<<"this is a testing "
     }
 }
