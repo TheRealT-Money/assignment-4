@@ -13,5 +13,6 @@ Employee::Employee(const string &Fname, const string &Lname) {
         cout << "Last name " << Lname << " too short, setting invalid name to default." << endl;
         LastName = "Last name not set";
         cout<<"this is a testing "
+        cout<<"doing another testing";
     }
 }
