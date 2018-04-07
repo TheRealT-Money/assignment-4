@@ -14,5 +14,6 @@ Employee::Employee(const string &Fname, const string &Lname) {
         LastName = "Last name not set";
         cout<<"this is a testing "
         cout<<"doing another testing";
+        cout<<"this is the last test";
     }
 }
